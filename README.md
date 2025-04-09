@@ -115,7 +115,7 @@ The Wild Oasis Hotel Management Application is built using the following technol
 ## 🛠️ Installation Steps:
 
 
-```
+
 
 <p>1. Install the required dependencies </p>
 
