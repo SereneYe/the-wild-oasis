@@ -114,25 +114,22 @@ The Wild Oasis Hotel Management Application is built using the following technol
 
 ## 🛠️ Installation Steps:
 
-<p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/lgope/the-wild-oasis.git
-```
 
-<p>2. Install the required dependencies </p>
+<p>1. Install the required dependencies </p>
 
 ```
 npm install
 ```
 
-<p>3. Start the development server</p>
+<p>2. Start the development server</p>
 
 ```
 npm run dev
 ```
 
-<p>4. Access the application at</p>
+<p>3. Access the application at</p>
 
 ```
 http://localhost:5173 or Your Local URL
